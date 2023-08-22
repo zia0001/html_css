@@ -1,0 +1,120 @@
+*{
+  padding: 0;
+  margin: 0;
+ } 
+  .main-container{
+    padding: 10px 35px 0 35px;
+    
+  }
+  .page-countainer{
+    width: 100%;
+    height: auto;
+   
+  }
+  .heading {
+    width: 100%;
+    padding-bottom: 25px;
+   
+  }
+  .about{
+    width: 100%;
+    padding-top: 10px;
+   
+    
+  }
+  .about-text{
+    background-color: lightblue;
+    margin-bottom: 6px;
+    
+    
+    
+  }
+  .info{
+    width: 70%;
+    float: left;
+  }
+  .course-text{
+    background-color: lightblue;
+  }
+  .image-section{
+    width: 30%;
+    
+    box-sizing: border-box;
+    float: left;
+   
+  }
+  .third-row{
+    background-color: rgb(214, 206, 206);
+  }
+  .third-row-2{
+    background-color: rgb(214, 206, 206);
+  }
+  .third-row-3{
+    background-color: rgb(214, 206, 206);
+  }
+  .heavy-courses{
+    padding-left: 170px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .light-courses{
+    padding-left: 170px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .join-courses{
+    background-color: lightblue;
+    width: 1412px;
+   
+    
+  }
+  .pet-information{
+    background-color: lightblue;
+    width: 1412px;
+    
+  }
+  .pet-name{
+    display: inline-block;
+    margin-bottom: 0px;
+  }
+  .pet-name-text{
+    display: inline-block;
+    
+  }
+  .pet-type{
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .pet-type-text{
+    display: inline-block;
+    margin-top: 0px;
+  }
+  .pet-gender{
+    display: inline-block;
+    margin-bottom: 0px;
+    margin-top: 0px;
+  }
+  .pet-gender-text{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .submit{
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    cursor: pointer;
+  }
+  @media (max-width:800px){
+    .image-section{
+      float: none;
+    }
+  }
+  @media (max-width:800px){
+    .info{
+      width: 100%;
+    }
+  }

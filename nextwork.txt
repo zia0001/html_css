@@ -1,0 +1,6 @@
+
+
+1. on page style -> external style sheet
+2. use of division <div></div> tags instead of sections/articles etc.
+3. use of html entities
+4. validate html https://www.freeformatter.com/html-validator.html

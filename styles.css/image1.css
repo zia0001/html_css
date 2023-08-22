@@ -1,0 +1,108 @@
+.title{
+  width: 100%;
+  display: block;
+  margin-left: 72px;
+  font-family: arial;
+  font-size: 26px;
+  
+}
+.login-button{
+  padding-right: 40px;
+  padding-left: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(153, 150, 150);
+  color: white;
+  border: none;
+  display: inline-block;
+  margin-bottom: 0px;
+  cursor: pointer;
+  
+}
+.registration-button{
+  padding-right: 29px;
+  padding-left: 29px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: none;
+  display: inline-block;
+  margin-bottom: 0px;
+  cursor: pointer;
+  
+}
+.email-text{
+  display: block;
+  margin-top: 13px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 70px;
+ 
+}
+.password-text{
+  margin-top: 13px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 70px;
+  display: block;
+}
+.forget-password{
+ display: inline-block;
+ margin-right: 0px;
+}
+.checkbox{
+  margin-left: 20px;
+  display: inline-block;
+  margin-left: 12px;
+}
+.auto-login{
+  display: inline-block;
+}
+.login-in-button{
+  padding-left: 104px;
+  padding-right: 104px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border: none;
+  background-color: rgb(153, 150, 150);
+  color: white;
+  cursor: pointer;
+}
+.new-account{
+  color: rgb(96, 96, 96);
+}
+.registration{
+  color: rgb(29, 30, 31);
+}
+.registration:hover{
+  cursor: pointer;
+  text-decoration: underline;
+  
+
+}
+.main-container{
+  margin-left: 200px;
+  display: inline-block;
+  
+  border-radius: 2px;
+  margin-top: 30px;
+}
+.container-2{
+  display: inline-block;
+  margin-left: 100px;
+  vertical-align: text-bottom;
+}
+.heading1{
+  margin-left: 70px;
+  margin-bottom: 0px;
+  font-size: 60px;
+}
+.heading2{
+  margin-bottom: 60px;
+  font-size: 60px;
+  margin-top: 0px;
+}
+@media (max-width:700px){
+  .main-container{
+    display: block;
+  }
+}
